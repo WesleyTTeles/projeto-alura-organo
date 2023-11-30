@@ -1,0 +1,41 @@
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 100%;
+    background-color: #6278F7;
+    padding: 32px;
+    background-image: url(../../../public/images/fundo.png);
+
+}
+
+.icon {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+    
+}
+
+.icon img {
+    width: 24px;
+  
+}
+
+.logo img {
+    width: 120px;
+}
+
+span {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+@media (max-width: 428px) {
+    footer {
+        flex-direction: column;
+    }
+    .logo {
+        margin: 16px 0; 
+    }
+}
