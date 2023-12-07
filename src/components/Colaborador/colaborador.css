@@ -1,25 +1,27 @@
-.card-wrapper {
+.colaborador {
     width: 280px;
 }
 
-.card-wrapper .header {
+.colaborador .cabecalho {
+    background-color:  #F0F0F0;
     border-radius: 10px 10px 0px 0px;
 }
-.header img {
+.colaborador img {
     width: 100px;
+    border-radius: 50%;
     position: relative;
     bottom: -50px;
-    border-radius: 50%;
 }
-.card-wrapper .footer {
+
+.colaborador .rodape {
     background: #FFFFFF;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
     border-radius: 0px 0px 10px 10px;
-    padding-top: 40px;
-    padding-bottom: 30px;
+    padding-top: 90px;
+    padding-bottom: 40px;
 }
 
-.card-wrapper .rodape h4 {
+.colaborador .rodape h4 {
     color: #6278F7;
     font-size: 18px;
     line-height: 22px;
@@ -27,7 +29,7 @@
     margin-bottom: 8px;
 }
 
-.card-wrapper .rodape h5 {
+.colaborador .rodape h5 {
     font-size: 18px;
     line-height: 22px;
     color: #212121;

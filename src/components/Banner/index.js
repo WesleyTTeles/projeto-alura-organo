@@ -1,9 +1,9 @@
-import "./styles.css";
+import "./banner.css";
 
 const Banner = () => {
   return (
-    <header className="banner">
-      <img src="/images/banner.png" alt="Foto do banner" />
+    <header className="cabecalho">
+      <img src="/images/banner.png" alt="Logo do Organo" />
     </header>
   );
 };
