@@ -5,8 +5,6 @@ import Campo from "../Campo";
 import ListaSuspensa from "../ListaSuspensa";
 import "./formulario.css";
 
-import hexToRgba from "hex-to-rgba";
-
 const Formulario = ({ aoCadastrar, times, cadastrarTime }) => {
   const [nome, setNome] = useState("");
   const [cargo, setCargo] = useState("");

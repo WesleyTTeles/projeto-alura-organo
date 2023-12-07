@@ -10,6 +10,14 @@ Este repositório contém o projeto desenvolvido como parte do curso React: dese
 
 Durante o curso, aprofundei meu entendimento sobre a estrutura de componentes, focando na componentização, nos ciclos de vida dos componentes através dos Hooks, e na utilização eficaz das props para criar funções e componentes, aprendendo a posicioná-las digamos que na "camada" correta no código.
 
+### Funcionalidades
+
+- Cadastro de times
+- Cadastro de colaboradores associando aos times
+- Favoritar o colaborador
+- Deletar colaborador
+- Mudar cor de fundo e do card do colaborador
+
 ### 🚀 Tecnologias Utilizadas
 
 - ReactJs
