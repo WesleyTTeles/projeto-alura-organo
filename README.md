@@ -30,4 +30,4 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue
 
 - 🧑🏽‍💻 Wesley Teles
 - 🔗 Link do meu portifólio: https://www.wesleyteles.com.br/
-- 🔗 Link do projeto:
+- 🔗 Link do projeto: https://organograma.netlify.app/
